@@ -1,2 +1,2 @@
-# java-a-z
-Java A-Z
+# Java A-Z
+
